@@ -1,4 +1,7 @@
 ## This is a markdown file
-*Hello World in in italic*
-**Hello World in in bold**
-***Hello World in in italic and bold***
+
+*Hello World in italic*
+
+**Hello World in bold**
+
+***Hello World in italic and bold***
